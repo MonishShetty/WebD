@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//WebD/static/css/main.e6c13ad2.css",
+    "main.js": "//WebD/static/js/main.2618ba9c.js",
+    "index.html": "//WebD/index.html",
+    "main.e6c13ad2.css.map": "//WebD/static/css/main.e6c13ad2.css.map",
+    "main.2618ba9c.js.map": "//WebD/static/js/main.2618ba9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2618ba9c.js"
+  ]
+}
